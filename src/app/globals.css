@@ -8,8 +8,14 @@
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
+  --color-primary: #40DFEF;
+  --color-secondary: #F9F8F6;
+  --color-accent: #799EFF;
+  --color-muted: #6b7280;
   --font-sans: var(--font-geist-sans);
   --font-mono: var(--font-geist-mono);
+  --font-khmer: var(--font-noto-sans-khmer);
+  --font-English: var(--font-roboto);
 }
 
 @media (prefers-color-scheme: dark) {
