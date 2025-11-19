@@ -10,7 +10,7 @@
   --color-foreground: var(--foreground);
   --color-primary: #40DFEF;
   --color-secondary: #F9F8F6;
-  --color-accent: #799EFF;
+  --color-hovercolor: #FF3F7F;
   --color-muted: #6b7280;
   --font-sans: var(--font-geist-sans);
   --font-mono: var(--font-geist-mono);
