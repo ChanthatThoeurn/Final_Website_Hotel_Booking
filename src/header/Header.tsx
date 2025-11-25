@@ -59,7 +59,7 @@ export function HotelHeader() {
               href="#"
               className="hidden sm:inline-flex px-6 py-2 bg-primary text-primary-foreground font-medium rounded-lg hover:opacity-90  hover:text-hovercolor transition-colors  "
             >
-              Book Now
+              Booking Now
             </Link>
 
             {/* Mobile Menu Button */}
