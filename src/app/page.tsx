@@ -1,5 +1,6 @@
 import { HotelHeader } from '../header/Header';
 import { HotelFooter } from '../footer/Footer';
+import HotelAbout from '../about/AboutUse';
 
 export const metadata = {
   title: 'LuxeStay - Book Your Perfect Hotel',
@@ -9,7 +10,10 @@ export const metadata = {
 export default function Home() {
   return (
     <>
-     <p className='text-amber-300'>Hello</p>
+      <HotelHeader />
+      <HotelAbout />
+
+      <HotelFooter />
     </>
   );
 }
