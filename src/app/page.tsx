@@ -1,8 +1,9 @@
 
-import Login from '../login/Login'
+
+import ContactPage from '../contact/Contact'
 
 export default function Home() {
   return (
- <Login/>
+ <ContactPage/>
   );
 }
